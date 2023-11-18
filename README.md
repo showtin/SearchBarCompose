@@ -1,5 +1,5 @@
 # SearchBarCompose
-Nothing much here. I'm just trying to save time spent creating searchbars in compose projects. By Ericgacoki
+Nothing much here. I'm just rewrite code By Ericgacoki for a little
 
 ## SearchBarCompose in your Composables
 ```kotlin
