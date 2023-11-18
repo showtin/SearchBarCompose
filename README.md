@@ -1,6 +1,20 @@
 # SearchBarCompose
 Nothing much here. I'm just trying to save time spent creating searchbars in compose projects. By Ericgacoki
 
+## SearchBarCompose in your Composables
+```kotlin
+Scaffold(modifier = Modifier.fillMaxSize()) {
+    SearchBarCompose(
+        onSearchParamChange = {
+
+        },
+        onSearchClick = {
+
+        }
+    )
+}
+```
+
 - Night mode
   
 ![image](https://github.com/showtin/SearchBarCompose/assets/102159582/6d8c0913-4756-49b5-9fa7-8910bd5b7628)
